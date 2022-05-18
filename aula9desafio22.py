@@ -1,5 +1,0 @@
-nome = input('Digite o nome completo de uma pessoa: ')
-print('Todas maiúsculas: {}'.format(nome.upper()))
-print('Todas minúsculas: {}'.format(nome.lower()))
-print('Número de caracteres, sem contar os espaços: {}'.format(len(nome.replace(' ', ''))))
-print('Número de caracteres no primeiro nome: {}'.format(len(nome.split()[0])))
