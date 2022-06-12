@@ -1,0 +1,6 @@
+print('\033[30;41mHello World!\033[m')
+print('\033[4;33;44mHello World!\033[m')
+print('\033[1;35;43mHello World!\033[m')
+print('\033[30;42mHello World!\033[m')
+print('\033[mHello World!\033[m')
+print('\033[7;30mHello World!\033[m')
